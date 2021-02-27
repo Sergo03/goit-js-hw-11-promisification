@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sergo03/goit-js-hw-11-timer.git"
+    "url": "git+https://github.com/Sergo03/goit-js-hw-11-promisification.git"
   },
   "keywords": [],
   "author": "Sergo03 <karpinskiy94@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sergo03/goit-js-hw-11-timer/issues"
+    "url": "https://github.com/Sergo03/goit-js-hw-11-promisification/issues"
   },
-  "homepage": "https://Sergo03.github.io/goit-js-hw-11-timer",
+  "homepage": "https://Sergo03.github.io/goit-js-hw-11-promisification",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
